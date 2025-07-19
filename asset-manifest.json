@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.dbf176b0.css",
+    "main.js": "/portfolio/static/js/main.ad2a789d.js",
+    "static/js/453.ad7768ec.chunk.js": "/portfolio/static/js/453.ad7768ec.chunk.js",
+    "static/media/clouds.gif": "/portfolio/static/media/clouds.dda97c30f859f413bc8d.gif",
+    "static/media/furfeed_screenshot.png": "/portfolio/static/media/furfeed_screenshot.e1737c03eed7602a080e.png",
+    "static/media/flower.jpg": "/portfolio/static/media/flower.1239e7f6f94d9aad0832.jpg",
+    "static/media/interest.jpg": "/portfolio/static/media/interest.0d839a5acbd31eddfd9b.jpg",
+    "static/media/my_pic.jpg": "/portfolio/static/media/my_pic.11154c83e8773682877a.jpg",
+    "static/media/quotespark_screenshot.png": "/portfolio/static/media/quotespark_screenshot.7c74ecfaa49ccbbb6475.png",
+    "static/media/rps_screenshot.png": "/portfolio/static/media/rps_screenshot.b0865f7479386d022962.png",
+    "static/media/rps.png": "/portfolio/static/media/rps.328289825cab71e5ef8b.png",
+    "static/media/Quote Spark.png": "/portfolio/static/media/Quote Spark.79465b97479b538825db.png",
+    "static/media/FurFeed.png": "/portfolio/static/media/FurFeed.43ea4558dbae7e9e63e3.png",
+    "index.html": "/portfolio/index.html",
+    "main.dbf176b0.css.map": "/portfolio/static/css/main.dbf176b0.css.map",
+    "main.ad2a789d.js.map": "/portfolio/static/js/main.ad2a789d.js.map",
+    "453.ad7768ec.chunk.js.map": "/portfolio/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbf176b0.css",
+    "static/js/main.ad2a789d.js"
+  ]
+}
